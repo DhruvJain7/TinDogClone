@@ -1,2 +1,1 @@
-# TinDogClone
-A practice project to clone the tindog page
+TinDog Starting Files
